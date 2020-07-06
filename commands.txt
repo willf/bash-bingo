@@ -17,6 +17,7 @@ file
 find
 grep
 gzip
+head
 history
 ifconfig
 kill
@@ -37,6 +38,7 @@ sort
 ssh
 strace
 sudo
+tail
 tar
 tee
 top
